@@ -16,6 +16,8 @@ public class HW1 {
         Thread.sleep(2000);
         driver.navigate().back();
         Thread.sleep(2000);
+
+
     }
 
 }
